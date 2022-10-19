@@ -1,0 +1,3 @@
+8
+Ra1, Bb1, Rc1, Kd1, Re1, Bf1, Rg1, Bh1, Ba2, Rb2, Bc2, Rd2, Be2, Rf2, Bg2, Rh2 
+Ra7, Bb7, Rc7, Bd7, Re7, Bf7, Rg7, Bh7, Ba8, Rb8, Bc8, Rd8, Ke8, Rf8, Bg8, Rh8
